@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TWL5hTIEkbsXezfQ+DEA8cp6dPfIIAKZtY8FyR3W59U=",
+  "Source": "EmartWebApi",
+  "BasePath": "_content/EmartWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

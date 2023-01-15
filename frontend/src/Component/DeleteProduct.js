@@ -1,0 +1,6 @@
+const DeleteData=()=>
+{
+    return(
+        
+    );
+}
